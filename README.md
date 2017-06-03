@@ -1,2 +1,2 @@
 # IF-Kit
-Tools for inspecting `InterpolatingFunction[]`
+Tools for inspecting `InterpolatingFunction[]`.
